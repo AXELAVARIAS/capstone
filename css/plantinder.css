@@ -1,0 +1,15 @@
+.c-item {
+    height: 500px;
+  }
+  
+  .c-img {
+    height: 100%;
+    object-fit: contain;
+    
+  }
+.footer-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
+.nav-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
