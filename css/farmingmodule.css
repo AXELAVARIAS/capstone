@@ -1,0 +1,12 @@
+.footer-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
+.nav-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
+
+.image{
+    width: 287px;
+    height: 300px;
+    object-fit: cover;
+}
