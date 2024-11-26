@@ -5,8 +5,19 @@
     background-color: rgba(247, 195, 95, 1);
 }
 
-.image{
-    width: 287px;
-    height: 300px;
+
+.carobox{
+    background-color: #15919b;
+    height: 600px;
+    width: 600px;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: black;
+}
+.teenanimlogo{
+    height: 100px;
+    width: 100px;
     object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }

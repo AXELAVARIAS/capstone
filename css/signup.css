@@ -1,6 +1,6 @@
 body{
     
-    background-image: url("/images/HeroPage.png");
+    background-image: url("../images/HeroPage.png");
 }
 .white
 {
@@ -11,4 +11,16 @@ body{
     border-radius: 20px;
     border:1px solid black;
 backdrop-filter: blur(10px);
+}
+.button{
+    background-color: #213A58;
+    
+}
+
+.teenanimlogo{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }

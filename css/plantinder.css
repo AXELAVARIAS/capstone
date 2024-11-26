@@ -13,3 +13,11 @@
 .nav-bg{
     background-color: rgba(247, 195, 95, 1);
 }
+
+.teenanimlogo{
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}

@@ -9,7 +9,7 @@ body, .container-fluid{
 }
 
 .hero-page{
-    background-image: url("/images/HeroPage.png");
+    background-image: url("../images/HeroPage.png");
     background-size: cover;
     background-position: center;
     height: 800px;

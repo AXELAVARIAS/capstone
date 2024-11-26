@@ -5,18 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign in</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <link href="/css/signup.css" rel="stylesheet">
+    <link href="../css/signup.css" rel="stylesheet">
 </head>
- <header class="bg-success py-3">
-        <div class="container d-flex justify-content-center align-items-center">
-            <h1 class="m-0">TEEN-ANIM</h1>
-        </div>
-    </header>
+<header class="bg-success py-3">
+    <div class="container d-flex justify-content-center align-items-center ">
+      <a class="navbar-brand" href="../index.html">
+        <img src="../images/teenanimlogo.png " class="teenanimlogo" alt="home logo">
+         </a>
+    </div>
+</header>
 <body>
     <div class="container-fluid d-flex justify-content-center align-items-center vh-100">
         <div class="border rounded p-5 white shadow blurred" style="width: 500px;">
             <label for="username" class="form-label ">Enter Username: </label>
-            <input class="form-control mb-5" type="text" placeholder="Enter your desired username..." aria-label=".form-control-lg example" id="username">
+            <input class="form-control mb-5" type="text" placeholder="Username..." aria-label=".form-control-lg example" id="username">
             <label for="password" class="form-label">Password:</label>
             <input type="password" id="password" class="form-control" aria-describedby="passwordtext" placeholder="Type your password..." >
             <div id="passwordtext" class="form-text mb-5">
@@ -26,14 +28,16 @@
             <input type="password" id="repassword" class="form-control mb-5 " aria-describedby="passwordtext" placeholder="Re-enter your password...">
             <div class="row">
                 <div class="col d-flex align-items-end">
-                    <a href="" class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover">Already have an account?</a>
+                    <a href="" class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover ">Already have an account?</a>
                 </div>
                 <div class="col d-flex justify-content-end">
-                    <button type="button" class="btn btn-primary mt-3" aria-label="Sign in button">Sign In</button>
+                    <button type="button" class="btn btn-primary mt-3 button" aria-label="Sign in button">Sign In</button>
                 </div>
             </div>
         </div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
 </body>
 </html>
 
