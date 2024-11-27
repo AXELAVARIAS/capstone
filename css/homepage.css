@@ -26,3 +26,9 @@ body, .container-fluid{
 .contact-bg{
     background-color: rgba(247, 194, 95, 0.603);
 }
+.teenanimlogo{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    margin-left: 10px ;
+}

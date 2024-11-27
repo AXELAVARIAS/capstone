@@ -11,3 +11,9 @@
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.teenanimlogo{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    margin-left: 10px ;
+}
