@@ -23,3 +23,6 @@ backdrop-filter: blur(10px);
     object-fit: cover;
     margin-left: 10px ;
 }
+.footer-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
