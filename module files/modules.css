@@ -12,14 +12,9 @@
     object-fit: cover;
     margin-left: 10px ;
 }
-.white
-{
-    background-color: white;
-}
+
 .blurred{
     background-color: rgba(255, 255, 255,0.5);
-    border-radius: 20px;
-    border:1px solid black;
     backdrop-filter: blur(10px);
     width: auto;
     height: auto;
@@ -27,11 +22,10 @@
     margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-}
-.button{
-    background-color: #213A58;
     
 }
+
+
 .module-image{
     height: 250px;
     width: 250px;
