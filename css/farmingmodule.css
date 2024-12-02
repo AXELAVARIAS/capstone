@@ -21,3 +21,6 @@
     object-fit: cover;
     margin-left: 10px ;
 }
+.nav-link {
+    color: initial; 
+  }
