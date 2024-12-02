@@ -1,0 +1,96 @@
+.footer-bg{
+    background-color: rgba(247, 195, 95, 1);
+    
+}
+.nav-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
+
+.teenanimlogo{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    margin-left: 10px ;
+}
+
+.blurred{
+    background-color: rgba(255, 255, 255,0.5);
+    backdrop-filter: blur(10px);
+    width: auto;
+    height: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+
+.module-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: black;
+}
+body {
+    background-image: url("farming.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+h2 {
+    font-size: 24px;
+    color: black;
+}
+h3 {
+    font-size: 20px;
+    color: black;
+}
+p {
+    font-size: 16px;
+    color: black;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color:black;
+}
+.nav-link {
+    color: initial; 
+    
+  }
+  
+  .nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.nav-button {
+    color: #F7C35F;
+    background-color: #2D5F4D;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.nav-button:hover {
+    color: #F7C35F;
+    background-color: #239b56;
+}
+
+.nav-button.prev {
+    margin-right: auto;
+}
+
+.nav-button.next {
+    margin-left: auto;
+}
+.menu-logo { width: 40px; height: 40px;}

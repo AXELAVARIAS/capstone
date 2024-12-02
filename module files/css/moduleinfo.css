@@ -1,0 +1,13 @@
+.footer-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
+.nav-bg{
+    background-color: rgba(247, 195, 95, 1);
+}
+
+.teenanimlogo{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    margin-left: 10px ;
+}
