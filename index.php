@@ -13,12 +13,12 @@
       UC RSO
     </div>
     <nav>
-      <a href="index.html" class="active">Dashboard</a>
-      <a href="html/Research  Capacity Buildings Activities.html">Research Capacity Building</a>
-      <a href="html/Data Collection Tools.html">Data Collection Tools</a>
-      <a href="html/Ethicss Reviewed Protocols.html">Ethics Reviewed Protocols</a>
-      <a href="html/Publication and Presentation.html">Publications and Presentations</a>
-      <a href="html/KPI records.html">KPI Records</a>
+      <a href="index.php" class="active">Dashboard</a>
+      <a href="php/Research  Capacity Buildings Activities.php">Research Capacity Building</a>
+      <a href="php/Data Collection Tools.php">Data Collection Tools</a>
+      <a href="php/Ethicss Reviewed Protocols.php">Ethics Reviewed Protocols</a>
+      <a href="php/Publication and Presentation.php">Publications and Presentations</a>
+      <a href="php/KPI records.php">KPI Records</a>
     </nav>
     <button class="login-btn" onclick="window.location.href='html/loginpage.html'">Login</button>
     
@@ -120,4 +120,4 @@
     </div>
   </div>
 </body>
-</html>
+</html> 
